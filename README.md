@@ -34,3 +34,5 @@ Approximates the integral using parabolic segments:
 git clone <repository-url>
 cd <repository-folder>
 python integration_comparison.py
+
+![Solution Comparison](solutions_graph.WhatsApp Image 2025-09-22 at 23.00.31_06b8146c.jpg)
