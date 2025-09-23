@@ -1,23 +1,6 @@
-# Numerical Integration: Simpson’s Rule vs Trapezoidal Rule
-
-## 1. Project Overview
-This project implements **Simpson’s Rule** and **Trapezoidal Rule** for numerical integration.  
-The goal is to **approximate definite integrals** and compare the accuracy of these two methods on sample test functions.
-
-Numerical integration (also called *numerical quadrature*) is the process of approximating
-the value of a definite integral when an exact analytical solution is difficult or impossible to obtain.
-
-The general form of a definite integral is:
-
-\[
-I = \int_a^b f(x)\,dx
-\]
-
-where \(f(x)\) is a continuous function defined on the interval \([a,b]\).
-
+# Assignment: Implement Simpson’s Rule. Compare its accuracy with the Trapezoidal Rule on at least two integrals (e.g., 0sin(x) dx, 12ln(x) 
 ---
-
-## 2. Theoretical Background
+## 1. Theoretical Background
 - **Trapezoidal Rule**: Approximates the area under the curve by dividing it into trapezoids.  
   Formula:  
   \[
